@@ -153,7 +153,7 @@
 ###
 
 <br/>
-<h2 align="center">✨ Dev Quote</h2><hr>
+<h2 align="center">✨ Dev Quote</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -161,7 +161,7 @@
 
 ###
 
-<h2 align="center">🔝 Top Contributed Repo</h2><hr>
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Ankur083&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
@@ -169,7 +169,7 @@
 
 ###
 
-<h2 align="center">🔝 Visitor Count</h2><hr>
+<h2 align="center">🔝 Visitor Count</h2>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Ankur083&icon=3&color=6" />
