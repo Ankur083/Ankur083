@@ -32,15 +32,11 @@
 
 ###
 
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left" >Language</h3><br/>
 
 ###
 
 <div align="left">
- 
-
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
@@ -49,8 +45,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12" />
+</div>
 
   <!-- Frontend -->
+  <h3 align="left" >Frontend</h3><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -59,41 +57,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12" />
-
-  <!-- Tailwind (Badge because devicon not stable everywhere) -->
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
   <br/><br/>
 
   <!-- Backend -->
+  <h3 align="left" >Backend</h3><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
   <img width="12" />
-
-  <!-- NPM -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
   <img width="12" />
-
-  <!-- Nodemon (Badge) -->
   <img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD"/>
 
   <br/><br/>
 
-  <!-- Database -->
+  <h3 align="left" >Database</h3><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 
   <br/><br/>
 
-  <!-- Deployment -->
+  <h3 align="left" >Deployment</h3><br/>
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
   <img width="8" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 
-</div>
+
 
 
 ###
