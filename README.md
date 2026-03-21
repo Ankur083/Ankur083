@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools</h2><br/>
+<h2 align="left">Languages and Tools</h2>
 <h3 align="left" >Language</h3>
 
 ###
