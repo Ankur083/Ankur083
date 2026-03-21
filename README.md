@@ -32,8 +32,8 @@
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
-<h3 align="left" >Language</h3>
+<h2 align="left">🛠 Tech Stack</h2>
+<h3 align="left" >💻  Language</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left" >Frontend</h3>
+<h3 align="left" >🌐 Frontend</h3>
 
 ###
 
@@ -68,7 +68,7 @@
  
 ###
 
-<h3 align="left" >Backend</h3>
+<h3 align="left" >⚙️ Backend</h3>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h3 align="left" >Database</h3>
+<h3 align="left" >🗄 Database</h3>
 
 ###
 
@@ -96,7 +96,7 @@
 
 ###
  
-<h3 align="left" >Deployment</h3>
+<h3 align="left" >🚀 Deployment</h3>
 
 ###
 
@@ -110,7 +110,7 @@
 ###
 
 <br/>
-<h3 align="left">🔥   My Stats :</h3><hr>
+<h3 align="left">🔥 My Stats :</h3><hr>
 
 ###
 
@@ -153,7 +153,7 @@
 
 ###
 
-<h3 align="center">📈 Contribution Graph</h3>
+<h3 align="left">📈 Contribution Graph</h3>
 
 ###
 
