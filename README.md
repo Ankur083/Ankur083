@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="center">I'm Ankur Raj from India 🇮🇳 👋</h1>
+<h1 align="center">I'm Ankur Raj from Jharkhand, India 🇮🇳 👋</h1>
 
 ###
 
@@ -135,7 +135,7 @@
 <h3 align="left">🚀 Projects</h3>
 
 <ul>
-  <li><b>AI Quiz Platform</b> – MERN stack app with authentication, quiz system, and result tracking</li>
+  <li><b>Adaptive Learning Platform</b> – MERN stack app with authentication, quiz system, and result tracking</li>
   <li><b>Employee Management System</b> – Java Swing + JDBC + Socket Programming</li>
 </ul>
 
@@ -145,7 +145,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🎓 MCA student at NIT Kurukshetra<br>-📚 Currently learning Data Structures & Algorithms and Backend Development<br>-  💻 Passionate about Full Stack Web Development & Problem Solving<br>- 🚀 Building real-world projects using MERN Stack <br>- ⚡ In my free time, I solve DSA problems and explore new technologies</p>
+<p align="left">I'm from Japla, palamu, jharkhand<br><br>- 🎓 MCA student at NIT Kurukshetra<br>-📚 Currently learning Data Structures & Algorithms and Backend Development<br>-  💻 Passionate about Full Stack Web Development & Problem Solving<br>- 🚀 Building real-world projects using MERN Stack <br>- ⚡ In my free time, I solve DSA problems and explore new technologies</p>
 
 ###
 
