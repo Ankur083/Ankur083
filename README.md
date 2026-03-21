@@ -153,7 +153,7 @@
 
 ###
 
-<h3 align="left">📈 Contribution Graph</h3>
+<h3 align="left">📈 Contribution Graph</h3><hr>
 
 ###
 
