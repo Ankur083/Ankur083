@@ -109,7 +109,7 @@
 ###
 
 <br/>
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3><hr>
 
 ###
 
@@ -134,7 +134,7 @@
 ###
 
 <br/>
-<h3 align="left">🚀 Projects</h3>
+<h3 align="left">🚀 Projects</h3><hr>
 
 <ul>
   <li><b>Adaptive Learning Platform</b> – MERN stack app with authentication, quiz system, and result tracking</li>
@@ -144,7 +144,7 @@
 ###
 
 <br/>
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3><hr>
 
 ###
 
@@ -153,7 +153,7 @@
 ###
 
 <br/>
-<h2 align="center">✨ Dev Quote</h2>
+<h2 align="center">✨ Dev Quote</h2><hr>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -161,7 +161,7 @@
 
 ###
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<h2 align="center">🔝 Top Contributed Repo</h2><hr>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Ankur083&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
@@ -169,7 +169,7 @@
 
 ###
 
-<h2 align="center">🔝 Visitor Count</h2>
+<h2 align="center">🔝 Visitor Count</h2><hr>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Ankur083&icon=3&color=6" />
