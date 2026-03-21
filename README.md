@@ -28,11 +28,11 @@
 
 ###
 
-<h1 align="center">I'm Ankur Raj from Jharkhand, India 🇮🇳 👋</h1><br/>
+<h1 align="center">I'm Ankur Raj from Jharkhand, India 🇮🇳 👋</h1><br/><br/>
 
 ###
 
-<h2 align="left">Languages and Tools</h2><hr>
+<h2 align="left">Languages and Tools</h2><br/>
 <h3 align="left" >Language</h3>
 
 ###
