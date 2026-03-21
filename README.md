@@ -108,6 +108,7 @@
 
 ###
 
+<br/>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -132,6 +133,7 @@
 
 ###
 
+<br/>
 <h3 align="left">🚀 Projects</h3>
 
 <ul>
@@ -141,6 +143,7 @@
 
 ###
 
+<br/>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -149,6 +152,7 @@
 
 ###
 
+<br/>
 <h2 align="center">✨ Dev Quote</h2>
 
 <div align="center">
