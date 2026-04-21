@@ -34,6 +34,24 @@
 
 <h2 align="left">🛠 Tech Stack</h2>
 
+
+## 🛠 Tech Stack
+
+### 💻 Language
+`C` `Java` `Python` `JavaScript`
+
+### 🌐 Frontend
+`HTML` `CSS` `Bootstrap` `React` `Tailwind CSS`
+
+### ⚙️ Backend
+`Node.js` `Express.js` `npm` `Nodemon`
+
+### 🗄 Database
+`MongoDB` `MySQL`
+
+### 🚀 Deployment
+`Netlify` `Render`
+
 <h3 align="left">💻 Language</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
