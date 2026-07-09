@@ -105,7 +105,7 @@
 
 <ul>
   <li><b>Adaptive Learning Platform</b> – MERN stack app with authentication, quiz system, and result tracking</li>
-  <li><b>Employee Management System</b> – Java Swing + JDBC + Socket Programming</li>
+  <li><b>CartNova</b> – Full-Stack MERN E-Commerce Platform with JWT Authentication, Admin Dashboard, Stripe & COD Payments, and Cloudinary Image Upload</li>
 </ul>
 
 ###
