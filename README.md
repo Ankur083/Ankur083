@@ -102,35 +102,41 @@
 
 <p align="left">I'm from Japla, palamu, jharkhand<br><br>- 🎓 MCA student at NIT Kurukshetra<br>-📚 Currently learning Data Structures & Algorithms and Backend Development<br>-  💻 Passionate about Full Stack Web Development & Problem Solving<br>- 🚀 Building real-world projects using MERN Stack <br>- ⚡ In my free time, I solve DSA problems and explore new technologies</p>
 
----
+###
 
-# 📈 GitHub Insights
+<br/>
+<h3 align="left">📈 Contribution Graph</h3><hr>
 
-### 📊 Contribution Graph
+###
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankur083&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankur083&theme=tokyo-night&hide_border=true"/>
+</div>
 
----
+###
 
-### 💭 Developer Quote
+<br/>
+<h2 align="center">✨ Dev Quote</h2>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
----
+###
 
-### 🚀 Top Contributed Repositories
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ankur083&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ankur083&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
 
----
+###
 
-### 👀 Visitor Count
+<h2 align="center">🔝 Visitor Count</h2>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ankur083&icon=3&color=6" alt="Visitor Count" />
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ankur083&icon=3&color=6" />
+</div>
+
+
+###matching withupper but some good 
