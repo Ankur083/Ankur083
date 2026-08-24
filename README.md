@@ -30,7 +30,7 @@
 
 ###
 
-# 🛠 Tech Stack
+<h2 align="left">🛠 Tech Stack</h2>
 
 ### 💻 Languages
 <p align="left">
