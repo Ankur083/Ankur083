@@ -30,34 +30,31 @@
 
 ###
 
-<h2 align="left">🛠 Tech Stack</h2>
+# 🛠 Tech Stack
 
-
-
-## 💻 Languages
-
+### 💻 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-## 🌐 Frontend
-
+### 🌐 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
 </p>
 
-## ⚙️ Backend
-
+### ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
 </p>
 
-## 🗄️ Database
-
+### 🗄️ Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### 🤖 AI & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 
 
